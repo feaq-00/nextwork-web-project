@@ -66,4 +66,4 @@ Syafiq - [syafiq_ahmad@outlook.com](mailto:syafiq_ahmad@outlook.com)
 ## Conclusion
 Thank you for exploring this project! I'll continue to build this pipeline and apply my learnings to future projects
 
-A big shoutout to **[NextWork](https://learn.nextwork.org/)** for their project guide and support. [You can get started with this DevOps series project too by clicking here] (https://learn.nextwork.org/projects/aws-devops-vscode?track=high)
+A big shoutout to **[NextWork](https://learn.nextwork.org/)** for their project guide and support. [You can get started with this DevOps series project too by clicking here](https://learn.nextwork.org/projects/aws-devops-vscode?track=high)
