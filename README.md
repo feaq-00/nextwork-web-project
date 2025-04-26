@@ -59,7 +59,7 @@ To get this project up and running on your local machine, follow these steps:
 <br>
 
 ## Documentation
-Documenting my hands-on journey through the 7-Day DevOps Challenge by NextWork. This **[Google Doc](https://docs.google.com/document/d/1O8xRkWVV1aKhy026ufu6eLHr_4xl5a8dcH3rJVMKfEY/edit?usp=sharing) captures my daily progress, technical hurdles, and how I overcame them — from launching my first EC2 instance to connecting CI/CD pipelines. A raw and real behind-the-scenes look into learning cloud and DevOps from scratch.
+Documenting my hands-on journey through the 7-Day DevOps Challenge by NextWork. This **[Google Doc](https://docs.google.com/document/d/1O8xRkWVV1aKhy026ufu6eLHr_4xl5a8dcH3rJVMKfEY/edit?usp=sharing)** captures my daily progress, technical hurdles, and how I overcame them — from launching my first EC2 instance to connecting CI/CD pipelines. A raw and real behind-the-scenes look into learning cloud and DevOps from scratch.
 
 <br>
 
