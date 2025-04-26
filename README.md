@@ -20,6 +20,7 @@ The deployment pipeline I'm building around the Java web app in this repository 
 
 - I'm doing this project to learn more about CI/CD and get hands on experience in automating the flow from developing code to deployed web app.
 - This fits into my career goals because I have an ambition to become a DevOps/Cloud Engineer this year!
+
 <br>
 
 ## Technologies
@@ -66,4 +67,4 @@ Syafiq - [syafiq_ahmad@outlook.com](mailto:syafiq_ahmad@outlook.com)
 ## Conclusion
 Thank you for exploring this project! I'll continue to build this pipeline and apply my learnings to future projects
 
-A big shoutout to **[NextWork](https://learn.nextwork.org/)** for their project guide and support. [You can get started with this DevOps series project too by clicking here](https://learn.nextwork.org/projects/aws-devops-vscode?track=high)
+A big shoutout to **[NextWork](https://learn.nextwork.org/)** for their project guide and support. [You can get started with this DevOps series project too by clicking here!](https://learn.nextwork.org/projects/aws-devops-vscode?track=high)
