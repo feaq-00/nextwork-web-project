@@ -33,6 +33,7 @@ Here's what I'm using for this project:
 - **AWS CodeBuild**: Once it's rolled out, CodeBuild will take over my build process. It'll compile the source code, run tests, and produce ready-to-deploy software packages automatically.
 - **AWS CodeDeploy**: Once it's rolled out, CodeDeploy will automate my deployment process across EC2 instances.
 - **AWS CodePipeline**: Once it's rolled out, CodePipeline will automate the entire process from GitHub to CodeDeploy, integrating build, test, and deployment steps into one efficient workflow.
+- **AWS CloudFormation**: Using Infrastructure as Code (IaC) to deploy my resources instead of clicking around in the AWS console.
 
 <br>
 
