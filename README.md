@@ -19,7 +19,7 @@ This project is used for an introduction to creating and deploying a Java-based 
 The deployment pipeline I'm building around the Java web app in this repository is invisible to the end-user, but makes a big impact by automating the software release processes.
 
 - I'm doing this project to learn more about CI/CD and get hands on experience in automating the flow from developing code to deployed web app.
-- This fits into my career goals because I have an ambition to become a DevOps/Cloud Engineer this year!
+- This fits into my career goals as I have an ambition to become a DevOps/Cloud Engineer this year! 
 
 <br>
 
@@ -30,7 +30,7 @@ Here's what I'm using for this project:
 - **VSCode**: For my IDE, I chose Visual Studio Code. It connects directly to my development EC2 instance, making it easy to edit code and manage files in the cloud.
 - **GitHub**: All my web app code is stored and versioned in this GitHub repository. 
 - **AWS CodeArtifact**: Once it's rolled out, CodeArtifact will store my artifacts and dependencies, which is great for high availability and speeding up my project's build process.
-- **AWS CodeBuild**: Once it's rolled out, CodeBuild will take over my build process. It'll complile the source code, run tests, and produce ready-to-deploy software packages automatically.
+- **AWS CodeBuild**: Once it's rolled out, CodeBuild will take over my build process. It'll compile the source code, run tests, and produce ready-to-deploy software packages automatically.
 - **AWS CodeDeploy**: Once it's rolled out, CodeDeploy will automate my deployment process across EC2 instances.
 - **AWS CodePipeline**: Once it's rolled out, CodePipeline will automate the entire process from GitHub to CodeDeploy, integrating build, test, and deployment steps into one efficient workflow.
 
@@ -68,3 +68,5 @@ Syafiq - [syafiq_ahmad@outlook.com](mailto:syafiq_ahmad@outlook.com)
 Thank you for exploring this project! I'll continue to build this pipeline and apply my learnings to future projects
 
 A big shoutout to **[NextWork](https://learn.nextwork.org/)** for their project guide and support. [You can get started with this DevOps series project too by clicking here!](https://learn.nextwork.org/projects/aws-devops-vscode?track=high)
+
+<br>
