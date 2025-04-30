@@ -42,19 +42,19 @@ Here's what I'm using for this project:
 To get this project up and running on your local machine, follow these steps:
 
 1. Clone the repository:
-    '''bash
+    ```bash
     git clone https://github.com/feaq-collab/nextwork-web-project.git
-    '''
+    ```
 
 2. Navigate to the project directory:
-    '''bash
+    ```bash
     cd nextwork-web-project
-    '''
+    ```
 
 3. Install dependancies:
-    '''bash
+    ```bash
     mvn install
-    '''
+    ```
 
 <br>
 
