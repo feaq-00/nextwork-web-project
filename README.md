@@ -6,7 +6,7 @@ Welcome to this project combining Java web app development and AWS CI/CD tools!
 
 ## Table of Contents
 - [Introduction](#introduction)
-- [Technologies](##technologies)
+- [Technologies](#technologies)
 - [Setup](#setup)
 - [Documentation](#documentation)
 - [Contact](#contact)
